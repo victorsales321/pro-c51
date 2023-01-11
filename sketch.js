@@ -164,7 +164,8 @@ if(keyWentDown("space")){
     vida.addImage(vidaimg1)
    }
   }
-   if(score===20){
+   if(score===200
+     ){
     gameState=2
     score=0
     contadorbala=70
